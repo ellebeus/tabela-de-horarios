@@ -1,0 +1,122 @@
+table{
+    font-size: 20px;
+    width: 100%;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-spacing: 0px;
+}
+
+table td{
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.dias{
+    background-color: rgb(242, 202, 198);
+    text-align: center;
+    height: 30px;
+    width: 9%;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.Artes{
+    background-color: rgb(252, 213, 243);
+    text-align: center;
+    height: 30px;
+    width: 9%;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.PP{
+    background-color: rgb(237, 167, 142);
+    text-align: center;
+    height: 30px;
+    width: 9%;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.CN{
+    background-color: rgb(248, 206, 128);
+    text-align: center;
+    height: 30px;
+    width: 9%;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.Carol{
+    background-color:rgb(252, 213, 243) ;
+    text-align: center;
+    height: 30px;
+    width: 9%;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.Will{
+    background-color: rgb(251, 251, 152);
+    text-align: center;
+    height: 30px;
+    width: 9%;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.Ana{
+    background-color: plum;
+    text-align: center;
+    height: 30px;
+    width: 9%;
+    font-family: Arial, Helvetica, sans-serif
+}
+.CH{
+    background-color: rgb(208, 208, 254);
+    text-align: center;
+    height: 30px;
+    width: 9%;
+    font-family: Arial, Helvetica, sans-serif
+}
+.PV{
+    background-color: rgb(161, 245, 183);
+    text-align: center;
+    height: 30px;
+    width: 9%;
+    font-family: Arial, Helvetica, sans-serif
+}
+.livre{
+    text-align: center;
+    height: 30px;
+    width: 9%;
+    font-family: Arial, Helvetica, sans-serif
+}
+.intervalo{
+    text-align: center;
+    height: 30px;
+    width: 9%;
+    font-family: Arial, Helvetica, sans-serif
+}
+.edf{
+    background-color: rgb(252, 213, 243);
+    text-align: center;
+    height: 30px;
+    width: 9%;
+    font-family: Arial, Helvetica, sans-serif
+}
+.espaco{
+    text-align: center;
+    height: 30px;
+    width: 9%;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.Turma {
+    writing-mode: vertical-rl;
+    width: 2%;
+    text-align: center;
+    height: 30px;
+    font-family: Arial, Helvetica, sans-serif
+  }
+
+.horarios{
+    text-align: center;
+    width: 4%;
+    height: 30px;
+    font-family: Arial, Helvetica, sans-serif
+}
